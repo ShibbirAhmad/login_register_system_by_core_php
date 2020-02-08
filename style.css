@@ -1,0 +1,16 @@
+*{margin:0px;padding:0px;}
+.container{width:960px;height:auto;margin-left:200px;margin:0 auto}
+.header{width:960px;height:100px;background:#fc7}
+.sub_header h3{float:left;margin-top:30px;margin:10px;font-size:26px;}
+.sub_header h3 a{text-decoration: none;color:#fff;}
+.header ul{float:right; margin-top:25px;margin-right:70px;}
+.header ul li {display:inline;margin-left:20px;}
+.header ul li a{font-size:26px;color:#000;text-decoration: none;}
+.header ul li a:hover{background:#fff;border-radius: 5px;}
+
+
+.footer{width:960px;height:100px;background:#fc7}
+.footer h3{float:left;margin:20px;font-size:26px;color:#000}
+.register{background:#f6eead;width:100%;height:380px;}
+
+input{width:350px;height:30px;}
